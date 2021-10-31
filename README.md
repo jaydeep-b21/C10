@@ -1,1 +1,1 @@
-# C10
+# logistic regression
